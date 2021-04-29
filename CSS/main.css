@@ -1,0 +1,121 @@
+body{
+	background-image: url('./Kep/Hatter1.png');
+   
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 0px;
+}
+.tapasztal{
+
+	background-image: url('./Kep/Hatter2.png');
+}
+.galeria{
+	background-image: url('./Kep/Hatter3.png');
+}
+.elkeszit{
+	background-image: url('./Kep/Hatter4.png');
+}
+div{
+ width: 50%;
+
+ margin: auto;
+ 
+
+}
+
+h1{
+	font-family: 'Karantina', cursive;
+	font-variant: small-caps;
+	font-size: 88px;
+	
+	color: white;
+}
+h2{
+	font-family: 'Karantina', cursive;
+	font-variant: small-caps;
+	font-size: 66px;
+	
+	color: white;
+}
+p{
+	font-family: 'Karantina', cursive;
+	font-size: 44px;
+	color: white;
+	text-align: justify;
+	text-align-last: left;
+}
+.kepala{
+	font-family: 'Karantina', cursive;
+	font-size: 33px;
+	color: white;
+	text-align: justify;
+	text-align-last: left;
+}
+span{
+	font-variant: small-caps;
+	color: rgb(197,179,8);
+}
+header{
+	
+	font-family: 'Karantina', cursive;
+	font-size: 55px;
+	color: white;
+	background-color: black;
+
+}
+
+nav{
+	
+	min-height: 50px;
+	max-height: 50px;
+	width: 100%;
+	background-color: black;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+    padding: 0;
+
+}   
+li a {
+  display: inline-block;
+  float: left;
+  color: white;
+  padding: 10px 16px;
+  font-family: 'Karantina', cursive;
+  font-size: 33px;
+  text-decoration: none; 
+  
+}
+
+
+li a:hover {
+  background-color: darkgrey;
+  color: white;
+}
+.aktualis{
+	background-color: rgb(197,179,8);
+	color: black;
+}
+footer{
+	 font-family: 'Karantina', cursive;
+     font-size: 20px;
+     color: white;
+     padding: 16px;
+     background-color: black;
+}
+a{
+	color: white;
+}
+img{
+ border: 3px solid rgb(197,179,8);
+}
+.kepkeszit{
+	height:150px;
+	width: 100px;
+	
+	margin: auto;
+	
+}
